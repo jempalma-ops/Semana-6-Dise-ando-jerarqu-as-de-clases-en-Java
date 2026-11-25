@@ -130,7 +130,7 @@ Cada categoría muestra dos objetos con sus respectivos atributos heredados y es
 
 ---
 
-**Repositorio GitHub:** https://github.com/jempalma-ops/LlanquihueTourApp
+**Repositorio GitHub:**https://github.com/jempalma-ops/Semana-6-Dise-ando-jerarqu-as-de-clases-en-Java**
 
 **Fecha de entrega:** [30/11/2026]
 
